@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project is a Power BI dashboard built to analyze customer churn behavior in a telecom company. The goal is to identify patterns and insights behind customer churn and help improve customer retention strategies through data-driven decision making.
 
+<img width="2117" height="1186" alt="image" src="https://github.com/user-attachments/assets/286fdaf5-dde5-4f61-8523-126e90ec4286" />
+
 ---
 
 ## 📁 Dataset
